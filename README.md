@@ -1,6 +1,7 @@
 **Diabetes Prediction Using Machine Learning**
 
 **Project Overview**
+
 Completed an exciting machine learning project to predict diabetes using the Diabetes Dataset. This project significantly enhanced my skills in data preprocessing, machine learning model training, model evaluation, data analysis, and Python programming.
 
 **Project Steps**
@@ -37,6 +38,7 @@ NumPy: Employed for numerical computations.
 Matplotlib/Seaborn: Used for data visualization and plotting evaluation metrics.
 
 **Future Work**
+
 Experiment with other classifiers such as SVM, Decision Trees, and Random Forests.
 Implement cross-validation techniques to further validate model performance.
 Explore feature engineering methods to improve model accuracy.

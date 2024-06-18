@@ -1,10 +1,10 @@
-#**Diabetes Prediction Using Machine Learning**
+# **Diabetes Prediction Using Machine Learning**
 
-##**Project Overview**
+## **Project Overview**
 
 Completed an exciting machine learning project to predict diabetes using the Diabetes Dataset. This project significantly enhanced my skills in data preprocessing, machine learning model training, model evaluation, data analysis, and Python programming.
 
-###**Project Steps**
+### **Project Steps**
 
 **Data Preprocessing**
 
